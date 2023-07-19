@@ -2,7 +2,7 @@
 
 [English] [\[日本語\]](./README_JA.md)
 
-https://youtu.be/1poVos_2cdc
+https://github.com/avcdsld/sui-shrine/assets/10495516/86990acd-6483-49a8-b1f8-eca4963780e5
 
 ## 🔍 What is this?
 
